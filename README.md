@@ -3,8 +3,9 @@
 My name is Stefano. I am a developer advocate at [DataStax](https://www.datastax.com/).
 
 - Software developer/data engineer/devOps
+- I love distributed systems and Apache Cassandra in particular
 - I code in Python, Scala, Javascript
-- I’m currently learning Kubernetes and k8ssandra
+- I'm trying to learn some Java
 - I like spiders
 
 <!--
