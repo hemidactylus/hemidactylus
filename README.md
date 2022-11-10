@@ -4,20 +4,7 @@ My name is Stefano. I am a developer advocate at [DataStax](https://www.datastax
 
 - Software developer/data engineer/devOps
 - I love distributed systems and Apache Cassandra in particular
-- I code in Python, Scala, Javascript
-- I'm trying to learn some Java
+- I code in Python, Javascript, a bit of Scala/Java/Go
 - I like spiders
-
-<!--
-**hemidactylus/hemidactylus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I used to be a theoretical physicist
+- [Get in touch](https://calendly.com/stefano-lottini/30min)
