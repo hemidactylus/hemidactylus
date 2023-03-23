@@ -1,6 +1,6 @@
 ### Hello there
 
-My name is Stefano. I am a developer advocate at [DataStax](https://www.datastax.com/).
+My name is Stefano. I work at [DataStax](https://www.datastax.com/).
 
 - Software developer/data engineer/devOps
 - I love distributed systems and Apache Cassandra in particular
